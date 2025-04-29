@@ -1,0 +1,140 @@
+/**
+ * Black theme for reveal.js. This is the opposite of the 'white' theme.
+ *
+ * By Hakim El Hattab, http://hakim.se
+ */
+
+
+// Default mixins and settings -----------------
+@import "../../css/theme/template/mixins";
+@import "../../css/theme/template/settings";
+// ---------------------------------------------
+
+
+// Include theme-specific fonts
+//@import url(./fonts/source-sans-pro/source-sans-pro.css);
+
+// @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import "nexus-sans";
+@import "scala-sans";
+
+// Override theme settings (see ../../css/theme/template/settings.scss)
+$backgroundColor: black;
+
+$mainColor: #fff;
+$headingColor: #fff;
+
+$mainFontSize: 42px;
+$mainFont: 'Scala Sans Pro', sans-serif;
+$headingFont: 'Scala Sans Pro', sans-serif;
+// $mainFont: 'Nexus Sans', sans-serif;
+// $headingFont: 'Nexus Sans', sans-serif;
+$headingTextShadow: none;
+$headingLetterSpacing: normal;
+$headingTextTransform: uppercase;
+$headingFontWeight: 600;
+$linkColor: #42affa;
+$linkColorHover: lighten( $linkColor, 15% );
+$selectionBackgroundColor: rgba( $linkColor, 0.75 );
+
+$heading1Size: 2.5em;
+$heading2Size: 1.6em;
+$heading3Size: 1.3em;
+$heading4Size: 1.0em;
+
+// Change text colors against light slide backgrounds
+@include light-bg-text-color(#222);
+
+
+// Theme template ------------------------------
+@import "../../css/theme/template/theme";
+// ---------------------------------------------
+
+i {
+    font-style: italic;
+}
+
+b {
+    font-weight: bold;
+}
+
+.reveal blockquote {
+    font-size: 100%;
+    text-align: justify;
+    hyphens: auto;
+    width: 80%;
+    font-style: normal;
+    background: rgba(0, 0, 0, 0);
+    box-shadow: 0px 0px 2px rgba(0,0,0,0);
+}
+
+body {counter-reset: section;}
+
+// h1:before {
+//     counter-increment:section;
+//     content: counter(section) ". ";
+//     font-weight:bold;
+// }
+
+.reveal .title-slide {
+    // div.lecture-quote {
+    // 	text-align: right;
+    // }
+    h2:before {
+	content: "";
+    }
+    h1.title {
+	text-align: right;
+        // font-weight: normal;
+    }
+    h2.author {
+        margin-top: 0em;
+	text-align: right;
+        text-transform: lowercase;
+        font-variant: small-caps;
+        // color: red;
+    }
+    h2.year {
+        padding-top: 0em;
+        margin-top: -.5em;
+	text-align: right;
+    }
+
+    h2.lecture {
+	margin-top: -.5em;
+        padding-top: 0em;
+	font-style: italic;
+	text-transform: lowercase;
+	text-align: right;
+        // margin-top: -.25em;
+    }
+}
+
+.reveal {
+    h1 {
+	// counter-reset:subsection;
+    }
+    h2 {
+        font-weight: normal;
+    }
+
+     h2.enumerate:before
+     {
+	 // content: attr(data-count-mysection) ". " ;
+
+     }
+
+    h3 {
+        font-size: 120%;
+        font-weight: normal;
+        text-transform: revert;
+        font-style: italic;
+    }
+}
+
+p {
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "kern" 1;
+  font-kerning: normal;
+  font-variant-ligatures: common-ligatures;
+}

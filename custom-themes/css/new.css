@@ -1,0 +1,77 @@
+/* @font-face { */
+/*   font-family: "Nexus Sans"; */
+/*   src: url('../fonts/NexusSansOT-Regular.otf'); */
+/* } */
+
+/* @font-face { */
+/*   font-family: "Nexus Sans"; */
+/*   src: url('../fonts/NexusSansOT-Italic.otf'); */
+/*   font-style: italic; */
+/* } */
+
+/* @font-face { */
+/*   font-family: "Nexus Sans"; */
+/*   src: url('../fonts/NexusSansOT-Bold.otf'); */
+/*   font-weight: bold; */
+/* } */
+
+/* @font-face { */
+/*   font-family: "Nexus Sans"; */
+/*   src: url('../fonts/NexusSansOT-BoldItalic.otf'); */
+/*   font-weight: bold; */
+/*   font-style: italic; */
+/* } */
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;0,700;1,400;1,700&');
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+i {
+    font-style: italic;
+}
+
+b {
+    font-weight: bold;
+}
+
+.reveal {
+  font-family: 'Lato', sans-serif;
+  font-size: 42px;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "kern" 1;
+  font-kerning: normal;
+  font-variant-ligatures: common-ligatures;
+  font-weight: normal;
+  color: white;
+}
+
+.reveal-viewport {
+	background-color: var(--r-background-color);
+}
+
+
+.reveal ::selection {
+	color: var(--r-selection-color);
+	background: var(--r-selection-background-color);
+	text-shadow: none;
+}
+
+.reveal ::-moz-selection {
+	color: var(--r-selection-color);
+	background: var(--r-selection-background-color);
+	text-shadow: none;
+}
+
+.reveal .slides section,
+.reveal .slides section>section {
+	line-height: 1.3;
+	font-weight: inherit;
+}
+
+
+.reveal blockquote {
+    text-align: justify;
+    hyphens: auto;
+}
