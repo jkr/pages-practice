@@ -1,16 +1,9 @@
-# Global Victorians #
+# Detective Fiction #
 
-- [Moonstone 2](/decks/global_victorians/moonstone_2.html)
-- [Moonstone 3](/decks/global_victorian/moonstone_3.html)
-- [Heart of Darkness](/decks/global_victorians/heart_of_darkness_2.html)
+-   [Introduction](/decks/detective_fiction/intro.html)
 
-# Nineteenth-Century Novel #
+-   [Edgar Allen Poe Stories](/decks/detective_fiction/poe.html)
 
-## *Pride and Prejudice* ##
+## *The Moonstone* ##
 
-- [Day 1](/decks/19C/austen/austen1.html)
-- [Day 2](/decks/19C/austen/austen2.html)
-- [Day 3](/decks/19C/austen/austen3.thml)
-
-
-
+-   [Moonstone 1](/decks/detective_fiction/collins1.html)
