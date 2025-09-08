@@ -7,3 +7,4 @@
 ## *The Moonstone* ##
 
 -   [Moonstone 1](/decks/detective_fiction/collins1.html)
+-   [Moonstone 2](/decks/detective_fiction/collins2.html)
