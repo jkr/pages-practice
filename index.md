@@ -13,3 +13,4 @@
 ## Sherlock Holmes ##
 
 -   [Study in Scarlet 1](/decks/detective_fiction/doyle_scarlet1.html)
+-   [Stories](/decks/detective_fiction/doyle_stories.html)
