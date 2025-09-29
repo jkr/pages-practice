@@ -18,3 +18,7 @@
 ## Father Brown ##
 
 -   [Stories](/decks/detective_fiction/chesterton.html)
+
+## Agatha Christie ##
+
+-   [Murder of Roger Ackroyd 1](/decks/detective_fiction/christie1.html)
