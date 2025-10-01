@@ -22,3 +22,4 @@
 ## Agatha Christie ##
 
 -   [Murder of Roger Ackroyd 1](/decks/detective_fiction/christie1.html)
+-   [Murder of Roger Ackroyd 2](/decks/detective_fiction/christie2.html)
