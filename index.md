@@ -23,3 +23,7 @@
 
 -   [Murder of Roger Ackroyd 1](/decks/detective_fiction/christie1.html)
 -   [Murder of Roger Ackroyd 2](/decks/detective_fiction/christie2.html)
+
+## Dorothy L. Sayers ##
+
+-   [Gaudy Night 1](/decks/detective_fiction/sayers1.html)
