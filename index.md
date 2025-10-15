@@ -28,3 +28,4 @@
 
 - [Gaudy Night 1](/decks/detective_fiction/sayers1.html)
 - [Gaudy Night 2](/decks/detective_fiction/sayers2.html)
+- [Gaudy Night 4](/decks/detective_fiction/sayers4.html)
