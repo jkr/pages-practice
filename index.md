@@ -33,3 +33,4 @@
 ## Dashiell Hammett ##
 
 - [Maltese Falcon 1](/decks/detective_fiction/hammett1.html)
+- [Maltese Falcon 2](/decks/detective_fiction/hammett2.html)
