@@ -34,3 +34,7 @@
 
 - [Maltese Falcon 1](/decks/detective_fiction/hammett1.html)
 - [Maltese Falcon 2](/decks/detective_fiction/hammett2.html)
+
+## Raymond Chandler ##
+
+- [Big Sleep 1](/decks/detective_fiction/chandler1.html)
