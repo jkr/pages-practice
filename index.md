@@ -39,3 +39,7 @@
 
 - [Big Sleep 1](/decks/detective_fiction/chandler1.html)
 - [Big Sleep 2](/decks/detective_fiction/chandler2.html)
+
+## Chester B. Himes ##
+
+- [Cotton Comes to Harlem 1](/decks/detective_fiction/himes1.html)
