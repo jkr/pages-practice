@@ -43,3 +43,4 @@
 ## Chester B. Himes ##
 
 - [Cotton Comes to Harlem 1](/decks/detective_fiction/himes1.html)
+- [Cotton Comes to Harlem 2](/decks/detective_fiction/himes2.html)
