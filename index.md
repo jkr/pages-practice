@@ -2,7 +2,10 @@
 
 - [Introduction](/decks/detective_fiction/intro.html)
 
-- [Edgar Allen Poe Stories](/decks/detective_fiction/poe.html)
+## Edgar Allen Poe ##
+
+- ["The Murders in the Rue Morgue", "The Purloined
+  Letter"](/decks/detective_fiction/poe.html)
 
 ## *The Moonstone* ##
 
