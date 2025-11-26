@@ -13,8 +13,8 @@
 ## Sherlock Holmes ##
 
 - [Study in Scarlet 1](/decks/detective_fiction/doyle_scarlet1.html)
-- [Study in Scarlet
-  2](/decks/detective_fiction/guests/A%20Study%20in%20Scarlet%20--%20Sylvia%20Cutler.pdf)
+- [Study in Scarlet 2 (Guest
+  Lecture)](/decks/detective_fiction/guests/A%20Study%20in%20Scarlet%20--%20Sylvia%20Cutler.pdf)
 - [Stories](/decks/detective_fiction/doyle_stories.html)
 
 ## Father Brown ##
@@ -50,3 +50,8 @@
 ## Jorge Luis Borges ##
 
 - [Stories](/decks/detective_fiction/borges.html)
+
+## Blade Runner ##
+
+- [Guest
+  Lecture](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dropbox.com%2Fscl%2Ffi%2Flgwifwdpnoy2tsa9gk1e3%2FBlade-Runner-The-Forking-Maze-of-Real-Subsumption.pptx%3Frlkey%3D6mek4l1sy4l726ki3o3rrecqe%26st%3Dc928z7ul%26dl%3D0&data=05%7C02%7Cjrosenthal%40jhu.edu%7C458e669422cd4d8cf6d608de279655a6%7C9fa4f438b1e6473b803f86f8aedf0dec%7C0%7C0%7C638991723782665527%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=dLphZclo95fEYYi2jeHCuzrOFSDQK91DCw1gQ%2Bs23kQ%3D&reserved=0)
