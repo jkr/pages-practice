@@ -13,8 +13,7 @@
 ## Sherlock Holmes ##
 
 - [Study in Scarlet 1](/decks/detective_fiction/doyle_scarlet1.html)
-- [Study in Scarlet 2 (Guest
-  Lecture)](/pdfs/A%20Study%20in%20Scarlet%20--%20Sylvia%20Cutler.pdf)
+- [Study in Scarlet 2 (Guest Lecture)](/pdfs/cutler.pdf)
 - [Stories](/decks/detective_fiction/doyle_stories.html)
 
 ## Father Brown ##
