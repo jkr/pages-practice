@@ -5,7 +5,7 @@
 ## Edgar Allen Poe ##
 
 - ["The Murders in the Rue Morgue", "The Purloined
-  Letter"](/decks/detective_fiction/poe.html)
+  Letter"](/presentations/decks/detective_fiction/poe.html)
 
 ## *The Moonstone* ##
 
