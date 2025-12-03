@@ -60,4 +60,4 @@
 ## Thomas Pynchon ##
 
 - [The Crying of Lot 49 1](/decks/detective_fiction/pynchon1.html)
-- [The Crying of Lot 49 1](/decks/detective_fiction/pynchon2.html)
+- [The Crying of Lot 49 2](/decks/detective_fiction/pynchon2.html)
