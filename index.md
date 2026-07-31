@@ -1,2 +1,2 @@
--   [Nineteenth-Century British Novel](/decks/19C/index.html)
--   [Detective Fiction](/decks/detective_fiction/index.html)
+-   [Nineteenth-Century British Novel](/presentations/decks/19C/index.html)
+-   [Detective Fiction](/presentations/decks/detective_fiction/index.html)
